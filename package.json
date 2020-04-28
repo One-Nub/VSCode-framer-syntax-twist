@@ -1,0 +1,26 @@
+{
+    "name": "framer-syntax-twist",
+    "displayName": "framer-syntax-twist",
+    "description": "Theme inspired by other Framer syntax themes",
+    "version": "0.0.1",
+    "publisher": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Framer Twist",
+                "uiTheme": "vs-dark",
+                "path": "./themes/framer-twist-color-theme.json"
+            }
+        ]
+    }
+}
