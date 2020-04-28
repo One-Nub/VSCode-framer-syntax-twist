@@ -1,18 +1,24 @@
 {
     "name": "framer-syntax-twist",
     "displayName": "framer-syntax-twist",
-    "description": "Theme inspired by other Framer syntax themes",
+    "description": "Dark theme inspired by Framer Syntax based themes.",
     "version": "0.0.1",
-    "publisher": "",
+    "publisher": "OneNub",
+    "license": "SEE LICENSE IN LICENSE.txt",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/One-Nub/VSCode-framer-syntax-twist"
     },
     "engines": {
         "vscode": "^1.44.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "framer",
+        "syntax"
     ],
     "contributes": {
         "themes": [
