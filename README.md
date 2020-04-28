@@ -1,5 +1,4 @@
 # framer-syntax-twist
----
 So basically, this is an unofficial/inspired port of [framer-new-syntax](https://github.com/lol-russo/framer-new-syntax) from Atom to VS Code, but also with a base config from [framer-syntax](https://github.com/framer/syntax).
 
 It should look nice for basically any language, there is generic support for js, css, markdown, and json. There are also some extra configuration settings for Dart in here too.
